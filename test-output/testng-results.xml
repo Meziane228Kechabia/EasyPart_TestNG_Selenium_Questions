@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-10T00:18:51 EDT" name="Default suite" finished-at="2024-07-10T00:18:53 EDT" duration-ms="1999">
+    <groups>
+    </groups>
+    <test started-at="2024-07-10T00:18:51 EDT" name="Default test" finished-at="2024-07-10T00:18:53 EDT" duration-ms="1999">
+      <class name="com.demo.nopcommerce.NavigateAndVerifyPageTitle">
+        <test-method signature="navigateAndFerifyPgeTitle()[pri:0, instance:com.demo.nopcommerce.NavigateAndVerifyPageTitle@6cf0e0ba]" started-at="2024-07-10T00:18:51 EDT" name="navigateAndFerifyPgeTitle" finished-at="2024-07-10T00:18:53 EDT" duration-ms="1968" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateAndFerifyPgeTitle -->
+      </class> <!-- com.demo.nopcommerce.NavigateAndVerifyPageTitle -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
